@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zkg005GBDAKLZ7sE5b0D41zZm1T7lSBymK3eJjDeS30=",
+  "Source": "RaceParticipationAPI",
+  "BasePath": "_content/RaceParticipationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
