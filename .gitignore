@@ -1,0 +1,28 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# Rider, VS Code, VS, JetBrains
+.idea/
+.vscode/
+*.sln.docstates
+
+# Databases and logs
+*.db
+*.sqlite
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
